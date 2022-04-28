@@ -4,6 +4,6 @@
 #### Step 2: npm start (will run the application)
 #### Step 3: Create a Cluster in mongoDb and create a table name products
 #### Step 4: create Database Access(admin user and password) and Network Access(anywhere server)
-#### Step 3: Change the URL in .env file with the cloud mongoDB ClusterURL(change the password in URL with the admin password).
+#### Step 3: Change the URL in .env file with the cloud mongoDB ClusterURL(change the password in URL with the admin password and 'myFirstDatabase' with MongoDB database name ).
 #### Step 4: To use test.http file shortcut install REST Client in vscode either use Postman
  
